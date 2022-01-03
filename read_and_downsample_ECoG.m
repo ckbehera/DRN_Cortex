@@ -1,4 +1,5 @@
-wd = 'C:\Users\ck1be\OneDrive - Ulster University\Documents\all data\Desktop\current_works\oxford works\oxford project2\ruairi2nd\chandan';
+%main
+wd = 'C:\Users\Chandan';
 basedir = pwd;
 addpath(basedir);
 
